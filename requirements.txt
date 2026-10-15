@@ -1,0 +1,12 @@
+aiohttp>=3.9.0
+img2pdf>=0.4.0
+numpy>=1.24.0
+pandas>=2.0.0
+pretty-html-table>=0.9.0
+pyodbc>=5.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+sqlalchemy>=2.0.0
+
+# Windows-only (optional — uncomment if using Outlook/win32com)
+# pywin32>=305

@@ -1,0 +1,8 @@
+[email]
+password = your_email_password
+
+[mssql]
+server = your_server
+database = your_database
+username = your_username
+password = your_password
